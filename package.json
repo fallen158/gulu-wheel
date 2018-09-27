@@ -1,0 +1,23 @@
+{
+  "name": "gulu",
+  "version": "0.0.1",
+  "description": "vue早的UI框架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fallen158/gulu-wheel.git"
+  },
+  "keywords": [
+    "vue",
+    "ui"
+  ],
+  "author": "林枫",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fallen158/gulu-wheel/issues"
+  },
+  "homepage": "https://github.com/fallen158/gulu-wheel#readme"
+}
